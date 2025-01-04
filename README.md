@@ -67,4 +67,5 @@ The system is designed to:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Haripreeth2004/FSM-Train-Interlocking-system
-   cd fsm-train-interlocking
+   unzip FSM_TTIS_Project.zip
+   cd FSM_TTIS_Project
