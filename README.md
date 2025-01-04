@@ -69,3 +69,8 @@ The system is designed to:
    git clone https://github.com/Haripreeth2004/FSM-Train-Interlocking-system
    unzip FSM_TTIS_Project.zip
    cd FSM_TTIS_Project
+
+## References
+1. **Finite State Machines in Control Systems**  
+   A comprehensive guide on how FSMs are used in automation and control systems.  
+   [Read More](FSM BASED RAILWAY TRACK INTERLOCKING SYSTEM.pdf)
