@@ -72,5 +72,4 @@ The system is designed to:
 
 ## References
 1. **Finite State Machines in Control Systems**  
-   A comprehensive guide on how FSMs are used in automation and control systems.  
-   [Read More](FSM BASED RAILWAY TRACK INTERLOCKING SYSTEM.pdf)
+   A comprehensive guide on how FSMs are used in automation and control systems.[Read More](FSM BASED RAILWAY TRACK INTERLOCKING SYSTEM.pdf)
